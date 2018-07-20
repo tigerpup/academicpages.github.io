@@ -11,49 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
+* BTech in information technology , Manipal Institute of Technology , 2017
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2015 to July 2015: Software Engineering Intern
+  * Freecharge
+  * Duties included: Developing Admin Management tools for developer Access to API
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* May 2016 to July 2016: Software Engineering Intern
+  * Magna Service Pvt Ltd
+  * Duties included: Refactoring Old code, Establishing a new Architectural Framework
+
+* Jan 2017 - Jun 2017: Software Engineering Intern
+  * Philips India
+  * Duties:
+    * Building a complete Application and Tool for Device Tracking and Management
+    * Building Log Analytics Service for Analysis of Android Los_Angeles
+    * Developing and contributing to the current Running Application for Mobile Device Farm :
+      An Application that allows users to use and test Applications on Real device from Remote.
+    * Improving Device Farm User experience
+* July 2017 - Now : Software Engineering
+  * Philips India
+  * Duties and Responsibilities:
+    * Improving Device Management and Improving Device Usage
+    * Developing New Features for Device Farm
+    * Implementing new POC for future features.
+    * building Microservices to improve Device Farm usage and ability.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Building Machine Learning and Deep Learning Models using Tensorflow and Keras
+* Javascript
+  * Node.js
+  * AngularJS
+* Android Developement using Java
+* Java
+* C#
+* Scripting:
+  * python
+  * shell programming
+* NoSQL Db:
+  * MongoDB
+  * RethinkDB
